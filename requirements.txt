@@ -1,0 +1,8 @@
+﻿streamlit
+requests
+pypdf
+chromadb
+sentence-transformers
+Pillow
+huggingface_hub
+reportlab
