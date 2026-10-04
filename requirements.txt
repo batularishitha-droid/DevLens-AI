@@ -1,4 +1,5 @@
-﻿streamlit
+﻿ddgs
+streamlit
 requests
 pypdf
 chromadb
